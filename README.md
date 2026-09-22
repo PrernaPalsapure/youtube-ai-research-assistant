@@ -87,7 +87,7 @@ venv\Scripts\activate
 Install the required packages used by the project:
 
 ```bash
-pip install streamlit youtube-transcript-api langchain-text-splitters pinecone langchain-google-genai python-dotenv
+pip install -r requirements.txt
 ```
 
 ### 4. Configure API Keys
